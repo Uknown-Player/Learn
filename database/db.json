@@ -1,0 +1,156 @@
+{
+  "users": {
+    "6282184691348@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6285888844674@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "62895395143264@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6281268091586@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6281586664299@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6288226567162@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6282140321647@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6283163203843@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6285692437808@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6282229708715@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6283111048095@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6288287475051@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6282261282682@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6285738846847@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6285233493037@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6289524741640@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6287875202691@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6283849947860@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6282141269202@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6282176567013@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6289516411477@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6282181768354@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6282182679427@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6287819460335@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6287864579059@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6285789284029@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    }
+  },
+  "chats": {
+    "6282184691348@s.whatsapp.net": {},
+    "120363302058071731@g.us": {},
+    "120363312722083657@g.us": {},
+    "120363296593541816@g.us": {},
+    "6288226567162@s.whatsapp.net": {},
+    "120363340146634429@g.us": {},
+    "6283872440575@s.whatsapp.net": {},
+    "6288287475051@s.whatsapp.net": {},
+    "6285233493037@s.whatsapp.net": {},
+    "6282338806895@s.whatsapp.net": {},
+    "120363319729438697@g.us": {},
+    "120363298302078760@g.us": {},
+    "120363151258146577@g.us": {}
+  },
+  "game": {},
+  "database": {},
+  "settings": {
+    "6282184691348@s.whatsapp.net": {
+      "status": 0,
+      "stock": 10,
+      "autobio": false,
+      "autoTyping": false,
+      "autoRecord": true,
+      "autoButton": true,
+      "public": false,
+      "setPrefix": "all",
+      "onlygrub": false,
+      "autoread": false,
+      "menuType": "buttonImage"
+    },
+    "6285233493037@s.whatsapp.net": {
+      "status": 0,
+      "stock": 10,
+      "autobio": false,
+      "autoTyping": false,
+      "autoRecord": true,
+      "autoButton": true,
+      "public": true,
+      "setPrefix": "all",
+      "onlygrub": false,
+      "autoread": false,
+      "menuType": "buttonImage"
+    }
+  },
+  "setting": {},
+  "others": {},
+  "sticker": {}
+}
